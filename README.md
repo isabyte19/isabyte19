@@ -1,7 +1,7 @@
 Hi, my name is Isabella and I am a second year in Informatics with a focus in Cybersecurity and Information Assurance.
 
 
-<a href="https://linkedin.com/isapetra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/isapetra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Aspiring Cybersecurity Analyst / Network Security Specialist
 
