@@ -5,7 +5,7 @@ Hi, my name is Isabella
 
 ### Aspiring Cybersecurity Analyst / Network Security Specialist
 
-Through coursework and my home lab, I have worked on a range of equipment, including switches, routers, and firewalls. My portfolio showcases labs done.
+Through coursework and my home lab, I have worked on a range of equipment, including switches, routers, and firewalls. My portfolio showcases labs done throughout the last four years.
 
 -----
 
