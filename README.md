@@ -1,4 +1,4 @@
-Hi, my name is Isabella and I am a second year in Informatics with a focus in Cybersecurity and Information Assurance.
+Hi, my name is Isabella and I am a second year studying Informatics with a focus in Cybersecurity and Information Assurance at the UW Seattle.
 
 
 <a href="https://linkedin.com/in/isapetra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
